@@ -1,0 +1,18 @@
+{
+  "name": "voiceflow",
+  "version": "1.0.0",
+  "description": "This project is a Voiceflow agent for an ecommerce company that integrates with Salesforce CRM. The agent allows customers to check the status of their orders and update their shipping address.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsforce": "^1.11.1"
+  }
+}
